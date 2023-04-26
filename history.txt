@@ -1,0 +1,19 @@
+clear
+ls
+cle
+clear
+ls
+pwd
+ls
+clear
+htop
+ls
+clear
+exit
+logout
+history
+history 10
+history 5
+ls
+clear
+exit
